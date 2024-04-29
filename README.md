@@ -1,4 +1,4 @@
-I invite fellow developers and AI enthusiasts to collaborate and expand on this work. Let us dissect its mechanisms, probe its philosophical implications, and push the boundaries of conversational AI.
+
 This chatbot project was my final year hustle at college. It's wired into the Gemini AI language model for next-level conversations, giving you that killer user experience.
 
 Features
