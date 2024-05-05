@@ -4,7 +4,7 @@ This chatbot project was my final year hustle at college. It's wired into the Ge
 Features
 
 Frontend crafted with React.js for a slick and responsive interface.
-Backend powered by Flutter for rock-solid stability and the potential to go cross-platform.
+Backend powered by Flask for rock-solid stability and the potential to go cross-platform.
 Tight integration with the Gemini API for some seriously smart chat action.
 Setup
 
