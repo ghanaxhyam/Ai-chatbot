@@ -1,4 +1,3 @@
-#!/bin/bash
 
 # Terminal 1
 osascript -e 'tell application "Terminal" to do script "/usr/local/bin/python3 /Users/advait/oneaboveall/backend/main.py"'
