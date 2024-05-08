@@ -1,7 +1,7 @@
 import google.generativeai as genai
 #I've added the comments ;)
 # Hardcoded API key (
-api_key = "I hardcoded the API key you can do it too if you are newbie"
+api_key = "ghanashyam baviskar"
 genai.configure(api_key=api_key)
 
 # Set up the model parameters
