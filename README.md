@@ -1,3 +1,4 @@
+Note - Someone contacted me regarding advait.sh file and applescript file it was meant for macbook if you want to run it just run multiple terminals on your system first of all run main .py then server.py then npm start react on another terminal.
 
 This chatbot project was my final year hustle at college. It's wired into the Gemini AI language model for next-level conversations, giving you that killer user experience.
 
